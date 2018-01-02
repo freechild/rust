@@ -1,0 +1,6 @@
+[package]
+name = "value-type"
+version = "0.1.0"
+authors = ["jjy <knight09_26@hotmail.com>"]
+
+[dependencies]
